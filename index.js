@@ -50,3 +50,12 @@ inputBtn.addEventListener("click", function() {
 
 
 //hi 
+// hello i am habib
+//})
+//save the inut of the input text...
+// inputBtn.addEventListener("click", function() {
+//     myLeads.push(inputEl.value)
+//     inputEl.value = ""
+//     localStorage.setItem("myLeads", JSON.stringify(myLeads))
+//     render(myLeads)
+// })
